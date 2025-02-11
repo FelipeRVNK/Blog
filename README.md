@@ -1,8 +1,20 @@
-# React + Vite
+Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é um projeto simples de blog desenvolvido para estudar o React. Ele consome dados da API JSONPlaceholder e permite editar e excluir postagens, mas sem alterar o banco de dados da API.
+
+Tecnologias Utilizadas
+
+Front-end: React
+
+API: JSONPlaceholder
+
+Funcionalidades
+
+Listagem de postagens da API JSONPlaceholder
+
+Edição de postagens (localmente, sem persistência)
+
+Exclusão de postagens (localmente, sem persistência)
